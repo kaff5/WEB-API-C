@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "GuPLYM81QWq8iJ3e2TSZ0/Skk9MYo+owYvUeq/mCxj0=",
+  "Source": "WEBBACK2",
+  "BasePath": "_content/WEBBACK2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WEBBACK2\\wwwroot",
+      "Source": "WEBBACK2",
+      "ContentRoot": "C:\\Users\\Maxim\\source\\repos\\Web-Hits-Backend-2\\WEBBACK2\\WEBBACK2\\wwwroot\\",
+      "BasePath": "_content/WEBBACK2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
